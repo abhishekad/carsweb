@@ -1,0 +1,16 @@
+.login{
+    text-align: center;
+    border: 2px salmon;
+    background-color: #f0956e;
+    width: 500px;
+    height: 300px;
+    margin:auto;
+    font-family: 'sans-serif, Segoe UI', Tahoma, Verdana ;
+    
+}
+
+#submit{
+    background-color: #4CAF50;
+    color: black;
+    border:1px solid black; /* Green */
+}
